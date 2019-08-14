@@ -1,4 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    direction: ltr;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkmagenta;
+}
+
+img {
+    width:500px;
 }
